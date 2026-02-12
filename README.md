@@ -1,6 +1,6 @@
 # llm-personas
 
-Collection of LLM instruction files and AI personas for various specialized tasks.
+Collection of LLM instruction files and AI personas for various specialized tasks, and fun!
 
 ## Purpose
 
